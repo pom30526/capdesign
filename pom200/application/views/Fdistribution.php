@@ -8,9 +8,8 @@
 <BODY>
 <center>
 <hr size=5>
-<h1>Snedecor's F Distribution Function</h1>
-<i>JavaScript</i>
-<hr size=5>
+<h1>F Distribution Function</h1>
+
 
 <FORM>
 <pre>

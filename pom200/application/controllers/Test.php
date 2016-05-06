@@ -56,6 +56,9 @@ Class Test extends CI_Controller {
 	public function fdistribution(){
 		$this->load->view('Fdistribution');
 	}
+	public function hyperdistribution(){
+		$this->load->view('hyper');
+	}
 	public function _remap($method){
 	$this->load->view('side');
 	if(method_exists($this, $method)){

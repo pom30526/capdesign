@@ -7,6 +7,7 @@ do not run in firefox
 </head>
 <script type="text/javascript" src="/pom200/include/js/statistics-functions.js"></script>
 <body>
+<!--
 <style>
 body{
     font-family: Arial;
@@ -46,7 +47,7 @@ td {
  border-bottom: 1px solid #f0f0f0;
 }
 </style>
-
+!-->
 
 
 <div id="wrapper">
